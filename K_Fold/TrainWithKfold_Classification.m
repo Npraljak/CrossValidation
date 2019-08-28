@@ -1,4 +1,3 @@
-%% Authors: Praljak, Niksa; Iram, Shamreen; Singh, Gundeep; Hinczewski, Michael
 %% Affiliation: Biotheory Group at Case Western Reserve University 
 %% Purpose: Cross Validation (K-fold) for Image Classification in Matlab R2019 
 
